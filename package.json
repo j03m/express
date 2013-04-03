@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "connect": "2.7.4",
+    "connect": "git+ssh://git@github.com:j03m/connect.git#master",
     "commander": "0.6.1",
     "range-parser": "0.0.4",
     "mkdirp": "~0.3.4",
